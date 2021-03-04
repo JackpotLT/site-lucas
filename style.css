@@ -1,7 +1,7 @@
 #conteudo {
     margin-top: 80px;
 }
-#texto-de-apresentaçao, #foto-de-apresentaçao{
+#texto-de-apresentaçao, #foto-de-apresentaçao, #animaçao, #resumo{
     text-align: center;
 }
 
@@ -18,7 +18,22 @@ button {
 #icones {
     margin-top: 20px;
 }
-img {
+#perfil {
     height: 300px;
     width: 300px;
+}
+#segunda-parte {
+    margin-top: 100px;
+    margin-bottom: 300px;
+}
+hmtl {
+    height: 100%;
+}
+img {
+    width: 500px;
+    height: 300px;
+    border-radius: 10%;
+}
+h2 {
+    font-family: 'RocknRoll One', sans-serif;
 }
