@@ -8,6 +8,17 @@
 h4 {
     margin-right: 95px;
 }
-i {
-    margin-right: 150px;
+#icone-mapa {
+    margin-left: 50px;
+}
+button {
+    background: none;
+    border: none;
+}
+#icones {
+    margin-top: 20px;
+}
+img {
+    height: 300px;
+    width: 300px;
 }
